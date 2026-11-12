@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-blueberry: #4187fb;
+  --color-jaffa: #ee7d31;
+  --color-maize: #fde85f;
+  --color-magenta: #f25fd0;
+  --color-offwhite: #f8f8f6;
+  --color-powder: #e3edfe;
+  --color-flag-navy: #1a2542;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #f8f8f6;
+  color: #0f172a;
+  font-family: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
