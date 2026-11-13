@@ -124,12 +124,12 @@ export const RAFFLE_FAQS: readonly FaqItem[] = Object.freeze([
     {
         question: '¿Cómo forma parte esta rifa de la campaña oficial Todos para Uno?',
         answer:
-            'Dentro de la campaña anual "¡Todos para uno!" de la Fundación Lorena Alejandra Gallardo (FLAG IAP), la comunidad se organiza en comités para reunir el fondo que becará a un nuevo estudiante universitario durante dos años. El comité "Aragonenes" impulsa esta rifa de 200 boletos para alcanzar nuestra meta de aportación a la fundación.',
+            'Dentro de la campaña anual "Todos para uno" de la Fundación Lorena Alejandra Gallardo (FLAG IAP), la comunidad se organiza en comités para reunir el fondo que becará a un nuevo estudiante universitario durante dos años. El comité "Aragonenes" impulsa esta rifa de 200 boletos para alcanzar nuestra meta de aportación a la fundación.',
     },
     {
         question: '¿Cómo adquiero mi boleto y cómo queda registrado?',
         answer:
-            'Puedes contactar por WhatsApp a cualquiera de los 4 integrantes del comité Aragonenes para solicitar los datos de transferencia bancaria ($100 MXN por boleto) o comprar tu boleto físico en la FES Aragón. Después, subes tu comprobante en el formulario oficial de Google y recibes la confirmación en tu correo.',
+            'Puedes contactar por WhatsApp a cualquiera de los 4 integrantes del comité Aragonenes para solicitar los datos de transferencia bancaria ($100 MXN por boleto) o comprar tu boleto físico en la FES Aragón. A su vez, dentro del formulario oficial de Google se encuentran datos de transferencia bancaria de un integrante del comité.  Después, subes tu comprobante en el formulario y un integrante confirmará de recibido.',
     },
     {
         question: '¿Cómo se garantiza que el sorteo del 21 de noviembre sea transparente?',
